@@ -1,1 +1,0 @@
-# Kurdish-Techno.github.io
