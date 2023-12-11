@@ -22,7 +22,7 @@ const translations = {
         about: "About Me",
         projects: "Projects",
         social: "Social",
-        contact: "Contact",
+ 
         // ... Add more translations for English
     },
     ku: {
