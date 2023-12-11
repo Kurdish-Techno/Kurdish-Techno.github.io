@@ -28,9 +28,8 @@ const translations = {
     ku: {
         about: "دەربارەی من",
         projects: "پڕۆژەکان",
-        social: "چاڵاکان",
-        contact: "پەیوەندی",
-        // ... Add more translations for Kurdish
+        social: "سۆشیاڵ میدیا",
+               // ... Add more translations for Kurdish
     }
 };
 
